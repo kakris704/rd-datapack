@@ -7,5 +7,8 @@
         scoreboard objectives add RD.UsingTime dummy
         scoreboard objectives add RD.UsingTimePrevTick dummy
 
+    ## Initial values
+        scoreboard players set .400 RD.Const 400
+
 
 say Reloaded
