@@ -3,5 +3,7 @@
     execute at @s run rotate @e[tag=RD.Summon,limit=1] ~ ~
 
     data modify entity @e[tag=RD.Summon,limit=1] data.OwnerUUID set from entity @s UUID
+    function kakris:utils/get_name
+    data modify entity @e[tag=RD.Summon,limit=1] data.OwnerName set from storage kakris:temp GetName
 
     tag @e remove RD.Summon
