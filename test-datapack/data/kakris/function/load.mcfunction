@@ -6,9 +6,11 @@
         scoreboard objectives add RD.RecCounter dummy
         scoreboard objectives add RD.UsingTime dummy
         scoreboard objectives add RD.UsingTimePrevTick dummy
+        scoreboard objectives add RD.1002.SlipDamageTimer dummy
 
     ## Initial values
         scoreboard players set .400 RD.Const 400
+        scoreboard players set .20 RD.Const 20
 
 
 say Reloaded
