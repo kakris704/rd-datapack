@@ -1,1 +1,2 @@
-give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,sound:{sound_id:""},consume_seconds:3.4E38},custom_data={ItemID:"0001",CustomItem:true},use_effects={can_sprint:true,speed_multiplier:1},item_model="arrow"]
+give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,sound:{sound_id:""},consume_seconds:3.4E38},custom_data={ItemID:"0001",CustomItem:true},use_effects={can_sprint:true,speed_multiplier:1},item_model="arrow"] 10
+give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,sound:{sound_id:""},consume_seconds:3.4E38},custom_data={ItemID:"0002",CustomItem:true},use_effects={can_sprint:true,speed_multiplier:1},item_model="spectral_arrow"] 10
