@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "right_click": {
+      "trigger": "minecraft:using_item",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "right_click"
+    ]
+  ],
+  "rewards": {
+    "function": "kakris:player/using_item"
+  }
+}

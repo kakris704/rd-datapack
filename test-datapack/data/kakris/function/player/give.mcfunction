@@ -1,0 +1,1 @@
+give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,sound:{sound_id:""},consume_seconds:3.4E38},custom_data={ItemID:"0001",CustomItem:true},use_effects={can_sprint:true,speed_multiplier:1}]
