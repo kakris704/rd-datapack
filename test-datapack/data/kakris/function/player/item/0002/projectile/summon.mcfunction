@@ -6,4 +6,6 @@
     function kakris:utils/get_name
     data modify entity @e[tag=RD.Summon,limit=1] data.OwnerName set from storage kakris:temp GetName
 
+    execute as @e[tag=RD.Summon,limit=1] at @s run function kakris:player/item/0002/projectile/tick
+
     tag @e remove RD.Summon
