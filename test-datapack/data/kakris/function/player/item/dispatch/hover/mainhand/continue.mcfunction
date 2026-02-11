@@ -1,2 +1,2 @@
 # ホバー中
-    $function kakris:player/item/$(MainhandItemID)/handle/hover_continue
+    $function kakris:player/item/$(MainhandItemID)/handle/hover/main_continue

@@ -7,6 +7,9 @@
         scoreboard objectives add RD.UsingTime dummy
         scoreboard objectives add RD.UsingTimePrevTick dummy
         scoreboard objectives add RD.1002.SlipDamageTimer dummy
+
+        scoreboard objectives add RD.ItemHoverStateChanged dummy
+        scoreboard objectives add RD.ItemHoverStateRemoved dummy
         # scoreboard objectives add RD.MainhandItemID dummy
         # scoreboard objectives add RD.OffhandItemID dummy
 

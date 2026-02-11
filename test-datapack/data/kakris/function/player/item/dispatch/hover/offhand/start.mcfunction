@@ -1,2 +1,2 @@
 # ホバー開始
-    $function kakris:player/item/$(OffhandItemID)/handle/hover_start
+    $function kakris:player/item/$(OffhandItemID)/handle/hover/off_start
