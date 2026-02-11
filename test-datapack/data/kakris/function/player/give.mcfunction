@@ -4,3 +4,6 @@ give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,s
 give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,sound:{sound_id:""},consume_seconds:3.4E38},custom_data={ItemID:"0004",CustomItem:true},use_effects={can_sprint:true,speed_multiplier:1},item_model="end_crystal"] 1
 give @s stick[minecraft:custom_data={ItemID:"0005",CustomItem:true},item_model="feather"] 1
 give @s stick[minecraft:custom_data={ItemID:"0006",CustomItem:true},item_model="leather_boots"] 1
+give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,sound:{sound_id:""},consume_seconds:3.4E38},custom_data={ItemID:"0007",CustomItem:true},use_effects={can_sprint:true,speed_multiplier:1},item_model="arrow"] 10
+give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,sound:{sound_id:""},consume_seconds:3.4E38},custom_data={ItemID:"0008",CustomItem:true},use_effects={can_sprint:true,speed_multiplier:1},item_model="diamond",item_name={text:"浮遊"}] 1
+give @s stick[minecraft:consumable={animation:none,has_consume_particles:false,sound:{sound_id:""},consume_seconds:3.4E38},custom_data={ItemID:"0009",CustomItem:true},use_effects={can_sprint:true,speed_multiplier:1},item_model="emerald",item_name={text:"透明化"}] 1

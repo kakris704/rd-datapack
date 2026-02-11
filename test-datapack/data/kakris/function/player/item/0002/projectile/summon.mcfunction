@@ -9,3 +9,7 @@
     execute as @e[tag=RD.Summon,limit=1] at @s run function kakris:player/item/0002/projectile/tick
 
     tag @e remove RD.Summon
+
+    # えんしゅつ
+        playsound minecraft:entity.arrow.shoot player @a ~ ~ ~ 1 1.2
+        playsound minecraft:entity.firework_rocket.large_blast_far master @a ~ ~ ~ 0.3 1.3
