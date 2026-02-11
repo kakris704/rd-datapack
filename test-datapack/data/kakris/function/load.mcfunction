@@ -7,6 +7,8 @@
         scoreboard objectives add RD.UsingTime dummy
         scoreboard objectives add RD.UsingTimePrevTick dummy
         scoreboard objectives add RD.1002.SlipDamageTimer dummy
+        # scoreboard objectives add RD.MainhandItemID dummy
+        # scoreboard objectives add RD.OffhandItemID dummy
 
     ## Initial values
         scoreboard players set .400 RD.Const 400

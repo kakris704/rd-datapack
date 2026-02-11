@@ -2,3 +2,5 @@
 0002 帯電針
 0003 落雷  chakuchinisuru
 0004 放電
+0005 jump boost
+0006 speed boost

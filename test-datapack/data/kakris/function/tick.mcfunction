@@ -1,7 +1,7 @@
 # Tick function
 
     ## Player tick
-        execute as @a at @s run function kakris:player/tick
+        execute as @a at @s run function kakris:player/tick with entity @s
 
     ## Tagged entity tick
         execute as @e[tag=RD.TaggedEntity] at @s run function kakris:effect/tick
