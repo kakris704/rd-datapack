@@ -17,10 +17,10 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "落雷",
+                "text": "放電",
                 "bold": true,
                 "italic": false,
-                "color": "gold"
+                "color": "yellow"
               }
             },
             {

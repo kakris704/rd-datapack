@@ -1,0 +1,1 @@
+function kakris:player/energy_display with entity @s
